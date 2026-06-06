@@ -1,0 +1,5 @@
+.agents/
+.codex/
+.git/
+node_modules/
+restored/

@@ -1,0 +1,13 @@
+{
+  "name": "@zrhe2016/test-upload-5-shard-0",
+  "version": "1.0.20260606052001",
+  "description": "Encrypted shard 0 of test-upload-5",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "manifest.json",
+    "test-upload-5.part0"
+  ],
+  "private": false,
+  "license": "MIT"
+}

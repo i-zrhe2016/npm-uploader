@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-06T05:20:33.580Z",
+  "artifacts": {
+    "test-upload-5": {
+      "artifactName": "test-upload-5",
+      "latestUploadId": "21d006a3-92b6-40b7-b828-772dcc0b52d3",
+      "updatedAt": "2026-06-06T05:20:33.580Z",
+      "latest": {
+        "version": 1,
+        "uploadId": "21d006a3-92b6-40b7-b828-772dcc0b52d3",
+        "artifactName": "test-upload-5",
+        "encrypted": true,
+        "algorithm": "aes-256-gcm",
+        "authTagLength": 16,
+        "chunkSize": 5242880,
+        "totalChunks": 5,
+        "encryptedBytes": 23068672,
+        "originalFileName": "test-upload-5.bin",
+        "originalFileSize": 23068672,
+        "packageVersion": "1.0.20260606052001",
+        "registry": "https://registry.npmjs.org",
+        "access": "public",
+        "salt": "44f5dd41ac5be0b90f1466c605ba7db1",
+        "iv": "1ba919f7a8fc01ab22dd24c9",
+        "authTag": "69f3352efecbb9e69959d9b20cafdb5e",
+        "generatedAt": "2026-06-06T05:20:13.269Z",
+        "chunks": [
+          {
+            "index": 0,
+            "fileName": "test-upload-5.part0",
+            "size": 5242880,
+            "upload": {
+              "status": "published",
+              "packageName": "@zrhe2016/test-upload-5-shard-0",
+              "version": "1.0.20260606052001",
+              "installSpec": "@zrhe2016/test-upload-5-shard-0@1.0.20260606052001",
+              "tag": "latest",
+              "access": "public",
+              "registry": "https://registry.npmjs.org",
+              "packageUrl": "https://www.npmjs.com/package/@zrhe2016/test-upload-5-shard-0/v/1.0.20260606052001",
+              "registryMetadataUrl": "https://registry.npmjs.org/%40zrhe2016%2Ftest-upload-5-shard-0",
+              "publishedAt": "2026-06-06T05:20:13.317Z"
+            }
+          },
+          {
+            "index": 1,
+            "fileName": "test-upload-5.part1",
+            "size": 5242880,
+            "upload": {
+              "status": "published",
+              "packageName": "@zrhe2016/test-upload-5-shard-1",
+              "version": "1.0.20260606052001",
+              "installSpec": "@zrhe2016/test-upload-5-shard-1@1.0.20260606052001",
+              "tag": "latest",
+              "access": "public",
+              "registry": "https://registry.npmjs.org",
+              "packageUrl": "https://www.npmjs.com/package/@zrhe2016/test-upload-5-shard-1/v/1.0.20260606052001",
+              "registryMetadataUrl": "https://registry.npmjs.org/%40zrhe2016%2Ftest-upload-5-shard-1",
+              "publishedAt": "2026-06-06T05:20:17.433Z"
+            }
+          },
+          {
+            "index": 2,
+            "fileName": "test-upload-5.part2",
+            "size": 5242880,
+            "upload": {
+              "status": "published",
+              "packageName": "@zrhe2016/test-upload-5-shard-2",
+              "version": "1.0.20260606052001",
+              "installSpec": "@zrhe2016/test-upload-5-shard-2@1.0.20260606052001",
+              "tag": "latest",
+              "access": "public",
+              "registry": "https://registry.npmjs.org",
+              "packageUrl": "https://www.npmjs.com/package/@zrhe2016/test-upload-5-shard-2/v/1.0.20260606052001",
+              "registryMetadataUrl": "https://registry.npmjs.org/%40zrhe2016%2Ftest-upload-5-shard-2",
+              "publishedAt": "2026-06-06T05:20:22.060Z"
+            }
+          },
+          {
+            "index": 3,
+            "fileName": "test-upload-5.part3",
+            "size": 5242880,
+            "upload": {
+              "status": "published",
+              "packageName": "@zrhe2016/test-upload-5-shard-3",
+              "version": "1.0.20260606052001",
+              "installSpec": "@zrhe2016/test-upload-5-shard-3@1.0.20260606052001",
+              "tag": "latest",
+              "access": "public",
+              "registry": "https://registry.npmjs.org",
+              "packageUrl": "https://www.npmjs.com/package/@zrhe2016/test-upload-5-shard-3/v/1.0.20260606052001",
+              "registryMetadataUrl": "https://registry.npmjs.org/%40zrhe2016%2Ftest-upload-5-shard-3",
+              "publishedAt": "2026-06-06T05:20:25.909Z"
+            }
+          },
+          {
+            "index": 4,
+            "fileName": "test-upload-5.part4",
+            "size": 2097152,
+            "upload": {
+              "status": "published",
+              "packageName": "@zrhe2016/test-upload-5-shard-4",
+              "version": "1.0.20260606052001",
+              "installSpec": "@zrhe2016/test-upload-5-shard-4@1.0.20260606052001",
+              "tag": "latest",
+              "access": "public",
+              "registry": "https://registry.npmjs.org",
+              "packageUrl": "https://www.npmjs.com/package/@zrhe2016/test-upload-5-shard-4/v/1.0.20260606052001",
+              "registryMetadataUrl": "https://registry.npmjs.org/%40zrhe2016%2Ftest-upload-5-shard-4",
+              "publishedAt": "2026-06-06T05:20:30.510Z"
+            }
+          }
+        ],
+        "lastUpdatedAt": "2026-06-06T05:20:33.580Z",
+        "sourceFilePath": "/root/dy/npm/files/test-upload-5.bin",
+        "localManifestPath": "/root/dy/npm/shards/test-upload-5/manifest.json",
+        "recordFile": "/root/dy/npm/upload-records.json",
+        "recordUpdatedAt": "2026-06-06T05:20:33.580Z"
+      },
+      "history": []
+    }
+  }
+}
